@@ -9,7 +9,10 @@ import java.time.ZonedDateTime;
 import java.util.Date;
 
 public class FileTest01 {
-
+    /**
+     *  File é uma classe   bem baixo nível
+     *  por isso  não temos performance
+     */
     public static void main(String[] args) {
         File file = new File("file.txt");
 //        File file = new File("C:\\workspace\\devdojo\\maratona-java\\arquivo\\file.txt");

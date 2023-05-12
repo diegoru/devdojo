@@ -28,6 +28,7 @@ public class FileReaderTest01 {
             }*/
 
             int i;
+            // o metodo read retorna um int como se fosse um size
             while ((i = fr.read()) != -1) {
                 System.out.print((char) i);
             }
