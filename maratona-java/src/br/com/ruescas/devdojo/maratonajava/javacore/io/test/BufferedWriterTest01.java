@@ -6,7 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 /**
- * https://www.youtube.com/watch?v=j7cWU9PM7wc&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&index=142&ab_channel=DevDojo
+ * <a href="https://www.youtube.com/watch?v=j7cWU9PM7wc&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&index=142&ab_channel=DevDojo">...</a>
  */
 public class BufferedWriterTest01 {
     /**
