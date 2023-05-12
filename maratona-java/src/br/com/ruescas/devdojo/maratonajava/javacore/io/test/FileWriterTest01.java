@@ -4,7 +4,11 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class FileWriter01 {
+/**
+ * https://www.youtube.com/watch?v=4wsysT3OxO4&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&index=140&ab_channel=DevDojo
+ */
+
+public class FileWriterTest01 {
     public static void main(String[] args) {
         File file = new File("file.txt");
         // Usamos o try with source pois o FileWrither herda da classe closable
